@@ -1,6 +1,6 @@
 # data visualisation
 
-Mase is a program working with java 16
+program works with java 16
 
 ## Dependencies
 
